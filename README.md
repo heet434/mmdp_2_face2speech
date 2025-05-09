@@ -59,6 +59,9 @@ The introduction of a supervised generalized end-to-end loss (SGE2E Loss) for th
 ## Notebook
 Further explanation of the paper and <b>demonstration</b> of the speech generation is given in the notebook file given in the repository.
 
+## Explanation Video
+[YouTube Link](https://youtu.be/Bu41n9ekN_I)
+
 ## References
 1. Goto, S., Onishi, K., Saito, Y., Tachibana, K., & Mori, K. (2020). Face2Speech: Towards Multi-Speaker Text-to-Speech Synthesis Using an Embedding Vector Predicted from a Face Image. INTERSPEECH 2020.
 2. Smith, H. M. J., Dunn, A. K., Baguley, T., & Stacey, P. C. (2016). Concordant cues in faces and voices: Testing the backup signal hypothesis. Evolutionary Psychology.
