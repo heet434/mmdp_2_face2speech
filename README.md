@@ -1,3 +1,5 @@
+<img width="1157" alt="Screenshot 2025-05-09 at 10 40 56 AM" src="https://github.com/user-attachments/assets/4aa52d33-ba3b-4b47-8cda-4e0b4b0654ce" />
+
 # Face2Speech: Learning the voice behind the face
 
 ## Motivation
@@ -18,7 +20,10 @@ Face2Speech builds upon a rich history of multimodal learning research:
 
 ## Key Learning Points
 
-### 1. Multi-Module Architecture Design
+### 1. Multi-Module multi-modal Architecture Design
+
+<img width="1391" alt="structure" src="https://github.com/user-attachments/assets/ba211243-49f5-4892-883b-e6055cf7a36d" />
+
 Face2Speech addresses the practical challenge of limited triplet data (text-speech-face) by decomposing the problem into three separately trainable modules:
 
 - **Speech Encoder**: Maps speech to a distinguishable embedding vector using generalized end-to-end loss optimization
@@ -51,8 +56,8 @@ The introduction of a supervised generalized end-to-end loss (SGE2E Loss) for th
 
 3. **Cross-Cultural Analysis**: Investigating how the face-voice relationship varies across different cultures and languages could reveal interesting patterns and help build more robust models.
    
-### Notebook
-Further explanation of the paper and demonstration of the speech generation is given in the notebook file given in the repository.
+## Notebook
+Further explanation of the paper and <b>demonstration</b> of the speech generation is given in the notebook file given in the repository.
 
 ## References
 1. Goto, S., Onishi, K., Saito, Y., Tachibana, K., & Mori, K. (2020). Face2Speech: Towards Multi-Speaker Text-to-Speech Synthesis Using an Embedding Vector Predicted from a Face Image. INTERSPEECH 2020.
